@@ -54,6 +54,12 @@ GitHub上の新規にコミットする場合は`git remote`コマンドで紐�
 $ git remote add origin https://github.com/ユーザ名/リポジトリ名.git
 ```
 
+## 姉妹リポジトリ
+
+本リポジトリのdestフォルダ（コンパイル後のコード）を元に作ったHTML/CSS/JSコーディングの最小環境。
+
+[Webコーディング スタートキット](https://github.com/ryo-i/web-coding-getting-sterted)
+
 
 ## 参考
 
