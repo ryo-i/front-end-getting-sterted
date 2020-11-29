@@ -20,7 +20,7 @@ body a {
 .header {
   width: 100%;
   max-width: 1000px;
-  padding: 0 20px;
+  padding: 20px;
   margin: 0 auto;
   text-align: center;
   background: #eee;
@@ -35,7 +35,7 @@ body a {
 .main {
   width: 100%;
   max-width: 1000px;
-  padding: 0 20px;
+  padding: 20px;
   margin: 0 auto;
 }
 
@@ -53,7 +53,7 @@ body a {
 .footer {
   width: 100%;
   max-width: 1000px;
-  padding: 0 20px;
+  padding: 20px;
   margin: 0 auto;
   text-align: center;
 }
