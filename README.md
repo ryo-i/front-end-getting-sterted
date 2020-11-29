@@ -58,9 +58,11 @@ $ git remote add origin https://github.com/ユーザ名/リポジトリ名.git
 
 サンプル：本リポジトリ環境のメタ言語を使って作ったWebページ
 
-[サンプル（GitHub）](https://github.com/ryo-i/frontendMetaLanguage)
+[コード（GitHub）](https://github.com/ryo-i/frontendMetaLanguage)
 
-本リポジトリのコンパイル後のコードを元に作ったHTML/CSS/JSコーディングの最小環境
+[プレビュー（GitHub Pages）](https://ryo-i.github.io/frontendMetaLanguage/dest/)
+
+Webコーディング スタートキット：本リポジトリのコンパイル後のコードを元に作ったHTML/CSS/JSコーディングの最小環境
 
 [Webコーディング スタートキット](https://github.com/ryo-i/web-coding-getting-sterted)
 
