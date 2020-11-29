@@ -2,6 +2,8 @@
 .header {
     @include pageSize();
     text-align: center;
+    background: $bg-color_g;
+    padding: 20px;
     &__title {
         color: $text-color;
     }

@@ -15,7 +15,7 @@
 
 当リポジトリをローカルにクローン
 ```sh
-$ git clone https://github.com/ryo-i/frontendMetaLanguage.git
+$ git clone https://github.com/ryo-i/front-end-getting-sterted.git
 ```
 
 フォルダに移動

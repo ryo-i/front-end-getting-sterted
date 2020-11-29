@@ -23,6 +23,8 @@ body a {
   padding: 0 20px;
   margin: 0 auto;
   text-align: center;
+  background: #eee;
+  padding: 20px;
 }
 
 .header__title {
