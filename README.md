@@ -52,6 +52,6 @@ gulpの終了
 
 [メタ言語まとめ](https://qiita.com/i-ryo/items/fa8383432fedb5dfc764)
 
-[サンプル（ソース）](https://github.com/ryo-i/frontendMetaLanguage)
+[サンプル（GitHub）](https://github.com/ryo-i/frontendMetaLanguage)
 
-[サンプル（プレビュー）](https://ryo-i.github.io/frontendMetaLanguage/dest/)
+[サンプル（GitHub Pages）](https://ryo-i.github.io/frontendMetaLanguage/dest/)
