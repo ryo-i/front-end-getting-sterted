@@ -29,6 +29,11 @@ npm install
 ```
 「node_modules」フォルダが作られる
 
+別のリポジトリにコミットをプッシュ
+```sh
+$ git remote add origin https://github.com/ユーザ名/リポジトリ名.git
+```
+
 ## gulpの起動、終了
 
 gulp起動
