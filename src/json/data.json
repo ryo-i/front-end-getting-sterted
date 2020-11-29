@@ -1,0 +1,25 @@
+{
+    "data": {
+        "header": {
+            "title":"フロントエンド開発スタートキット",
+            "text": "メタ言語（EJS、Sass(SCSS)、TypeScript）のコンパイル環境です。画像も圧縮します。"
+        },
+        "main": {
+            "title":"タイトルです",
+            "lede": "テキストです。テキストです。テキストですったらテキストです。"
+        },
+        "inner": [
+            {
+            "title": "CSS（文字色）",
+            "text": "CSSでタイトルの文字色変更。"
+            },
+            {
+            "title":"JS（文字列）",
+            "text": "JSでテキストの文字列追加「<span class='inner__text--hello'></span>」"
+            }
+        ],
+        "footer": {
+            "text":"©️ front-end-getting-sterted"
+        }
+    }
+}

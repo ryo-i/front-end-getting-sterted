@@ -1,0 +1,7 @@
+/* main */
+.main {
+    @include pageSize();
+    &__title {
+      font-size: 1.5em;
+    }
+  }

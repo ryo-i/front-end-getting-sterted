@@ -1,0 +1,61 @@
+/***** base *****/
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #333;
+}
+
+body *, body *:before, body *:after {
+  box-sizing: border-box;
+}
+
+body a {
+  color: #ff0000;
+}
+
+/***** block *****/
+/* header */
+.header {
+  width: 100%;
+  max-width: 1000px;
+  padding: 0 20px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header__title {
+  color: #333;
+}
+
+/* main */
+.main {
+  width: 100%;
+  max-width: 1000px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.main__title {
+  font-size: 1.5em;
+}
+
+/* inner */
+.inner__title {
+  font-size: 1.25em;
+  color: #ff0000;
+}
+
+/* footer */
+.footer {
+  width: 100%;
+  max-width: 1000px;
+  padding: 0 20px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer__test {
+  font-size: 0.8em;
+}

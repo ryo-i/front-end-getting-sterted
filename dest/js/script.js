@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=JSON.parse('{"y":{"f":"こんにちは、ふろんとえんど。","n":".inner__text--hello"}}');var t={text:e.y.f,selector:e.y.n},n=t.text,o=t.selector;document.addEventListener("DOMContentLoaded",(function(){document.querySelector(o).innerHTML=n,console.log("text-> "+n)}))})();

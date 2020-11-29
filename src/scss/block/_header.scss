@@ -1,0 +1,8 @@
+/* header */
+.header {
+    @include pageSize();
+    text-align: center;
+    &__title {
+        color: $text-color;
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "message": {
+        "text": "こんにちは、ふろんとえんど。",
+        "selector": ".inner__text--hello"
+    }
+}

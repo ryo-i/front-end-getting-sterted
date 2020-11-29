@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<head>
+<%- include('base/_head', {header: data.header}); %>
+</head>
+<body>
+<%- include('block/_header', {header: data.header}); %>
+<%- include('block/_main', {main: data.main, inner: data.inner}); %>
+<%- include('block/_footer', {footer: data.footer}); %>
+</body>
+</html>
