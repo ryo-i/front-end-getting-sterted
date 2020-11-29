@@ -2,6 +2,8 @@
 
 メタ言語（EJS、Sass(SCSS)、TypeScript）のコンパイル環境です。画像も圧縮します。
 
+[GitHub Pages](https://ryo-i.github.io/front-end-getting-sterted/dest/)
+
 ## 全体構成
 * `/src`フォルダを修正するとコンパイル実行（ブラウザも更新）
 * `/src`フォルダ　-> `/dest`フォルダにコンパイルされる
@@ -48,11 +50,8 @@ gulpの終了
 
 ## 参考
 
-メタ言語まとめ
-https://qiita.com/i-ryo/items/fa8383432fedb5dfc764
+[メタ言語まとめ](https://qiita.com/i-ryo/items/fa8383432fedb5dfc764)
 
-サンプル
-https://github.com/ryo-i/frontendMetaLanguage
+[サンプル（ソース）](https://github.com/ryo-i/frontendMetaLanguage)
 
-プレビュー画面
-https://ryo-i.github.io/frontendMetaLanguage/dest/
+[サンプル（プレビュー）](https://ryo-i.github.io/frontendMetaLanguage/dest/)
