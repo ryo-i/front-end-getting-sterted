@@ -49,22 +49,24 @@ Contrl + C
 
 ## 新規リポジトリにコミット
 
-GitHub上の新規にコミットする場合は`git remote`コマンドで紐付け
+GitHub上の新規リポジトリにコミットする場合は`git remote`コマンドで紐付け
 ```sh
 $ git remote add origin https://github.com/ユーザ名/リポジトリ名.git
 ```
 
 ## 姉妹リポジトリ
 
-本リポジトリのdestフォルダ（コンパイル後のコード）を元に作ったHTML/CSS/JSコーディングの最小環境。
+サンプル：本リポジトリ環境のメタ言語を使って作ったWebページ
+
+[サンプル（GitHub）](https://github.com/ryo-i/frontendMetaLanguage)
+
+本リポジトリのコンパイル後のコードを元に作ったHTML/CSS/JSコーディングの最小環境
 
 [Webコーディング スタートキット](https://github.com/ryo-i/web-coding-getting-sterted)
 
 
 ## 参考
 
+本リポジトリの作成過程、メタ言語について調べたことなど
+
 [メタ言語まとめ（Qiita）](https://qiita.com/i-ryo/items/fa8383432fedb5dfc764)
-
-[サンプル（GitHub）](https://github.com/ryo-i/frontendMetaLanguage)
-
-[サンプル（GitHub Pages）](https://ryo-i.github.io/frontendMetaLanguage/dest/)
