@@ -1,6 +1,6 @@
 @mixin pageSize($width: 1000px) {
     width: 100%;
     max-width: $width;
-    padding: 0 20px;
+    padding: 20px;
     margin: 0 auto;
 }
