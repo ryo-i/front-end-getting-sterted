@@ -1,7 +1,7 @@
 {
     "data": {
         "header": {
-            "title":"フロントエンド開発スタートキット",
+            "title":"フロントエンド開発スターターキット",
             "text": "メタ言語（EJS、Sass(SCSS)、TypeScript）のコンパイル環境です。画像も圧縮します。"
         },
         "main": {

@@ -1,4 +1,4 @@
-# フロントエンド開発スタートキット
+# フロントエンド開発スターターキット
 
 メタ言語（EJS、Sass(SCSS)、TypeScript）のコンパイル環境です。画像も圧縮します。
 
@@ -21,6 +21,7 @@
 ```sh
 $ git clone https://github.com/ryo-i/front-end-getting-sterted.git
 ```
+「front-end-getting-sterted」というフォルダが作られる。
 
 フォルダに移動
 ```sh
@@ -31,7 +32,7 @@ $ cd front-end-getting-sterted
 ```sh
 $ npm install
 ```
-「node_modules」フォルダが作られる
+「node_modules」フォルダが作られる。
 
 
 ## gulpの起動、終了
@@ -64,7 +65,7 @@ $ git remote add origin https://github.com/ユーザ名/リポジトリ名.git
 
 [プレビュー（GitHub Pages）](https://ryo-i.github.io/frontendMetaLanguage/dest/)
 
-### Webコーディング スタートキット
+### Webコーディング スターターキット
 
 本リポジトリのコンパイル後のコードを元に作ったHTML/CSS/JSコーディングの最小環境
 
