@@ -2,8 +2,9 @@
 
 メタ言語（EJS、Sass(SCSS)、TypeScript）のコンパイル環境です。画像も圧縮します。
 
-[GitHub Pages](https://ryo-i.github.io/front-end-getting-sterted/dest/)
+[プレビュー（GitHub Pages）](https://ryo-i.github.io/front-end-getting-sterted/dest/)
 
+[コードの詳細（ブログ）](https://www.i-ryo.com/entry/2020/12/01/082409)
 
 ## 全体構成
 * `/src`フォルダを修正するとコンパイル実行（ブラウザも更新）
