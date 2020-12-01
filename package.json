@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "text": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
     "gulp": "gulp",
     "start": "gulp"

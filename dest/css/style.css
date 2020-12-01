@@ -28,7 +28,7 @@ body a {
 }
 
 .header__title {
-  color: #333;
+  font-size: 2em;
 }
 
 /* main */
@@ -56,8 +56,4 @@ body a {
   padding: 20px;
   margin: 0 auto;
   text-align: center;
-}
-
-.footer__test {
-  font-size: 0.8em;
 }
